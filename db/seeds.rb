@@ -33,5 +33,5 @@ puts "5 skills created"
   )
 end
 
-puts "p portfolio items created"
+puts "9 portfolio items created"
 
